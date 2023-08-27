@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.266a95bb.css",
-    "main.js": "./static/js/main.421cc060.js",
+    "main.css": "./static/css/main.6e978e7a.css",
+    "main.js": "./static/js/main.99879df1.js",
     "static/media/calculator.png": "./static/media/calculator.71583d7ddba7f8737fd2.png",
     "static/media/portfolio.png": "./static/media/portfolio.7ff28803166fd2c1eccd.png",
     "static/media/crm.png": "./static/media/crm.3b8a9861b08d12e58016.png",
@@ -9,6 +9,7 @@
     "static/media/cart.png": "./static/media/cart.09e4f2d998ab1aec0176.png",
     "static/media/react-blog.png": "./static/media/react-blog.2b16b873f9943822be0a.png",
     "static/media/background-contacts.png": "./static/media/background-contacts.f6cbcdf8ffe997550df9.png",
+    "static/media/background-menu.png": "./static/media/background-menu.ddba6a2ecc5121c4e67b.png",
     "static/media/background-notFound.png": "./static/media/background-notFound.ddba6a2ecc5121c4e67b.png",
     "static/media/background-skills.png": "./static/media/background-skills.9bec44d993a1c910c10f.png",
     "static/media/background-projects.png": "./static/media/background-projects.30c99b8b4d7c8b7bd983.png",
@@ -22,14 +23,14 @@
     "static/media/js.svg": "./static/media/js.0037760865ee9c0fd117f2df7dee0e6f.svg",
     "static/media/redux.svg": "./static/media/redux.b7c2e137a2ccee81d496096b0e6eebd3.svg",
     "static/media/VS-code.svg": "./static/media/VS-code.2c782cbd2fe2e4ad83749cad3dd9dc2e.svg",
-    "static/media/background-burger-menu.svg": "./static/media/background-burger-menu.9c176bdd736543b7bb2b.svg",
+    "static/media/background-btn-white.svg": "./static/media/background-btn-white.9c176bdd736543b7bb2b.svg",
     "static/media/nodejs.svg": "./static/media/nodejs.83b187c067da78380a26f426b5cae4b9.svg",
     "index.html": "./index.html",
-    "main.266a95bb.css.map": "./static/css/main.266a95bb.css.map",
-    "main.421cc060.js.map": "./static/js/main.421cc060.js.map"
+    "main.6e978e7a.css.map": "./static/css/main.6e978e7a.css.map",
+    "main.99879df1.js.map": "./static/js/main.99879df1.js.map"
   },
   "entrypoints": [
-    "static/css/main.266a95bb.css",
-    "static/js/main.421cc060.js"
+    "static/css/main.6e978e7a.css",
+    "static/js/main.99879df1.js"
   ]
 }
